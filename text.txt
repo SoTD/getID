@@ -1,0 +1,25 @@
+getID - "get item id by name"
+Version: 0.1
+
+Description:
+"getID" is my first plugin for bukkit. If you input an item name, it outputs the corresponding item ID. I wrote this plugin mostly to get into bukkit development and to improve my java programming-skill. And yet, it's helpful for me and maybe for you sometimes. I remember many times i thought "damn what was the id for this item again.."..so you maybe give it a try.
+
+Usage:
+Put "getID.jar" in your server's /plugin/ directory.
+To get an item ID: /getid item name
+Example: /getid stone, /getid pink dye
+
+Permissions:
+If you want to use permissions, use this node:
+getid.id
+
+To-Do:
+-Improve used regular expressions
+-Dynamically item/id-list
+
+Bugs:
+none known
+Changelog:
+initial release - 17.05.2011
+
+
